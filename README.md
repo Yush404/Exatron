@@ -771,8 +771,7 @@ Executable Binary
 
 ## Project Metadata
 
-- **Author**: <AUTHOR>
-- **Institution**: <COLLEGE>
+- **Author**: Ayush Debnath
 - **Language Standard**: C++23 (`-std=c++23`)
 - **License**: Educational / Open Source
 
