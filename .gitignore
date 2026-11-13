@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.out
+!tests/expected/*.out
+
+# Compiler outputs & temporary binaries
+quick_start
+01_linear_single_layer
+02_binary_classifier
+03_multiclass_iris_shape
+04_wide_vs_deep
+05_hybrid_pipeline
+test_*_bin
+
+# Tooling & IDE caches
+.cache/
+compile_commands.json
+.vscode/
+.idea/
+
+# OS artifacts
+.DS_Store
+Thumbs.db

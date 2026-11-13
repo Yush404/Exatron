@@ -1,0 +1,5 @@
+Linear Regressor: 3 inputs -> 1 output
+Input:
+[[1.0000, 2.0000, 3.0000]]
+Output (untrained, random weights):
+[[-0.3233]]

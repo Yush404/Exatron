@@ -1,0 +1,4 @@
+Matrix multiplication (2x3 @ 3x2 -> 2x2):
+[[11.0000, 14.0000], [24.5000, 32.0000]]
+IrisNet Softmax Output Probabilities (1x3):
+PROBS_OK

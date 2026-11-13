@@ -1,0 +1,5 @@
+Iris Classifier: 4 -> 8 (relu) -> 4 (tanh) -> 3 (softmax)
+Input features:
+[[5.1000, 3.5000, 1.4000, 0.2000]]
+Output probabilities (softmax, sum to 1.0):
+[[0.3289, 0.3968, 0.2743]]

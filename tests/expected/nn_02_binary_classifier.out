@@ -1,0 +1,9 @@
+Binary Classifier: 2 -> 4 (relu) -> 1 (sigmoid)
+Input [0, 0] -> output:
+[[0.5000]]
+Input [1, 0] -> output:
+[[0.5088]]
+Input [0, 1] -> output:
+[[0.4959]]
+Input [1, 1] -> output:
+[[0.5081]]
